@@ -1,0 +1,29 @@
+Node and npm install thakte hoi (check node -  node –v and npm check – npm -v )
+mOngo db download
+cd ..
+cd Desktop\
+mkdir rest-tut
+cd rest-tut
+npm init
+ls //kon kon file ase dhakha jai
+touch server.js //new file open
+npm i express
+node server.js //express e ki ki ase dhakha jai
+npm start
+//third party module use server automatically restart
+npm i –D nodemon
+
+npm install morgan –save
+
+npm install body-parser
+
+npm install cors
+mongo //mongo ase kina check
+show dbs //check all database
+
+mongo db install – npm i mongoose
+database run – mongod
+npm i validator  //validator add
+npm i bcrypt // poassword encrypted
+npm install jsonwebtoken   //web token install
+file upload using multer
